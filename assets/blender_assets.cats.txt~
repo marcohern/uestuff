@@ -11,3 +11,6 @@ VERSION 1
 c3f5ed86-9551-4d47-a48e-40697afb70ba:Surfaces/Concrete:Surfaces-Concrete
 abb3ef65-2406-4b2b-a789-4f9a2dab30d7:Surfaces/Gravel:Surfaces-Gravel
 d407e6dd-4899-46bd-9f71-cdb0470dbd77:Surfaces/Marble:Surfaces-Marble
+e1bbb9da-e4f0-4cdb-8408-13cd2ff92e6c:Surfaces/Metal:Surfaces-Metal
+40ce1c01-d3ec-4698-9ec6-4e74e79dfd46:Surfaces/Plaster:Surfaces-Plaster
+cf2478e0-e3be-48a7-884c-2098e1f9f4a8:Surfaces/Wood:Surfaces-Wood
