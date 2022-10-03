@@ -1,0 +1,22 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl D3D_P_TRA_11low
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 4
+map_Kd D3D-P-TRA-11c.jpg
+map_bump D3D-P-TRA-11b.jpg
+bump D3D-P-TRA-11b.jpg
+map_opacity 
+map_d 
+refl 
+map_kS D3D-P-TRA-11s.jpg
+map_kA 
+map_Ns D3D-P-TRA-11g.jpg
